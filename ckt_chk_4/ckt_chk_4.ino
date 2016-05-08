@@ -1,6 +1,7 @@
 // Analog 005 set to outputs, then control multiplexer using port manipulation
 // removing the need of serial communication
 // time stamp added
+//ADG732 32:1 MUX is used to select one of the solar samples
 
 
 #include <SPI.h>
